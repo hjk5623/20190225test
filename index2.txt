@@ -3,3 +3,4 @@ def
 reset-1 ghi
 reset-2 jkl
 revert-3 mon
+revert-4 pqr
